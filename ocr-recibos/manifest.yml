@@ -1,0 +1,4 @@
+applications:
+- name: my-app
+  host: my-app
+  memory: 256M
